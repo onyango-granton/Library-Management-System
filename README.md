@@ -35,8 +35,8 @@ Open Your browser put inside browser “http://localhost/library”
 
 Login Details for user :
 
-Username : test@gmail.com
-Password : Test@123
+Username : hamza@gmail.com
+Password : 1234
 
 
 For Admin Panel
@@ -46,8 +46,6 @@ Login Details for admin :
 Username : admin
 Password : admin@123
 
-Home Page: 
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/1%20Updated.png?raw=true)
 
 Online library Management System divided in two modules–
 
@@ -77,8 +75,6 @@ Admin can also view student details
 Admin can change own password
 
 
-Admin Dashboard:
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/3%20Updated.png?raw=true)
 
 
 Students-
@@ -96,8 +92,4 @@ Student can view issued book and book return date-time.
 Student can also change own password.
 
 Student can also recover own password.
-
-
-Student Dashboard:
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
 
